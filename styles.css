@@ -1,0 +1,44 @@
+/* Fontes */
+@import url('https://fonts.googleapis.com/css2?family=Cascadia+Mono:ital,wght@0,200..700;1,200..700&display=swap');
+
+body {
+    background-color: #f6cece;
+}
+h1 { /* Título */
+    text-align: center;
+    font-family: 'Cascadia Mono', sans-serif;
+    margin: 55px;
+    text-shadow: 2px 2px 1px rgb(197, 102, 102);
+    font-size: 90px;
+}
+h2 {
+    text-align: center;
+    font-family: 'Cascadia Mono', sans-serif;
+    text-shadow: 2px 2px 1px rgb(197, 102, 102);
+}
+p { /* Parágrafos */
+    text-align: center;
+    font-family:'Cascadia Mono', sans-serif;
+    margin: auto;
+}
+h3 { /* Name Food */
+    text-align: center;
+    font-family: 'Cascadia Mono', sans-serif;
+    text-shadow: 2px 2px 1px rgb(197, 102, 102);
+    margin: auto;
+    font-size: 28px;
+}
+h4 {
+    text-align: center;
+    font-family:'Cascadia Mono', sans-serif;
+    margin: auto;
+    text-shadow: 1px 2px 1px rgb(185, 79, 79);
+    font-style: oblique;
+    font-size: 19px;
+}
+.imgfood {
+    width: 475px;
+    margin:auto;
+    text-align: center;
+    border-radius: 7px;
+}
